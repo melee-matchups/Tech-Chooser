@@ -12,7 +12,7 @@ def display_tech(tech: tuple[str, str, int, int, list[str]], score: int):
     print()
     print("Difficulty:\t", stars(tech[2]))
     print("Usefulness:\t", stars(tech[3]))
-    print("My Current Score:", None if score is None else stars(score))
+    print("My Current Score:", "\tNone" if score is None else stars(score))
     print("Links:")
     print(*tech[-1], sep="\n", end="\n\n")
 
