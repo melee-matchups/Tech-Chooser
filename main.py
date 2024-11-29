@@ -38,7 +38,7 @@ def main():
         elif inp != "":
             data[chosen_tech[0]] = int(inp)
 
-    save_data(file, data)
+    system.save_data(file, data)
         
 
 if __name__ == "__main__":
