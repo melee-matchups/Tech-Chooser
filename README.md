@@ -38,8 +38,8 @@ Run `main.py` in a directory where files can be created
     > Leaving the input blank will clear the screen and choose another tech
 
 # Command line arguments
-    > The first command line argument is an option filename to the json file with the data in it
-    > If this file is not specified, data is saved in `./data.json`
+> The first command line argument is an option filename to the json file with the data in it
+> If this file is not specified, data is saved in `./data.json`
 
 # Tech
 To add/change tech, modify the variable `TECH` in `consts.py`
