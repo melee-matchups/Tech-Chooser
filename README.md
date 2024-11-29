@@ -34,7 +34,7 @@ Run `main.py` in a directory where files can be created
 - `5`
     > Rate the current chosen tech `I've mastered it`
 
-- ``
+- ` `
     > Leaving the input blank will clear the screen and choose another tech
 
 # Command line arguments
