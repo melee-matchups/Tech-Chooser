@@ -62,6 +62,9 @@ TECH = [
     ("Ledge tech", "Defence", 3, 4, [
         "https://melee.guru/characters/tech/ledge-tech.html"
     ]),
+    ("SDI (fox uair/shine in UP)", "Defence", 4, 4, [
+        "https://melee.guru/characters/tech/smash-directional-influence.html"
+    ]),
     
     ("Ledge dash", "Ledge", 3, 4, [
         "https://melee.guru/characters/tech/ledge-dash.html"
@@ -103,6 +106,9 @@ TECH = [
     ("Reverse B", "Attacks", 1, 3, [
         "https://melee.guru/characters/tech/b-reversal.html"
     ]),
+    ("Attacks on Sheild", "Attacks", 3, 4, []),
+    
+    ("Edge guarding fox in UP", "Attacks", 3, 5, []),
 ]
 
 LIST_COMMANDS = ["lst", "ls", "list", "l"]
