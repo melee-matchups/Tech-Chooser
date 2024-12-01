@@ -78,6 +78,10 @@ TECH = [
     ("Hax dash", "Ledge", 4, 3, [
         "https://melee.guru/characters/tech/haxdash.html"
     ]),
+    ("Ledge hogging (WD + fastfall / turn around bair)", "Ledge", 3, 5, [
+        "https://melee.guru/characters/tech/wavedash.html",
+        "https://melee.guru/characters/tech/waveland.html"
+    ]),
     
     ("Shield drop / Shai Drop", "Platform", 4, 4, [
         "https://melee.guru/characters/tech/shai-drop.html",
