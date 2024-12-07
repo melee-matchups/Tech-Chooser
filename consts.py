@@ -56,6 +56,9 @@ TECH = [
     ("Powersheilding -> WaveDash / Aerial", "Defence", 4, 3, [
         "https://melee.guru/characters/tech/powershield.html"
     ]),
+    ("ASDI / ASDI down", "Defence", 3, 5, [
+        "https://melee.guru/characters/tech/automatic-smash-directional-influence.html"
+    ]),
     ("Amsah Tech", "Defence", 3, 4, [
         "https://melee.guru/characters/tech/amsah-tech.html"
     ]),
